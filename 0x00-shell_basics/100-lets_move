@@ -1,2 +1,2 @@
 #!/bin/bash
-mv move_uppercase_files /tmp/u
+mv -t _uppercase_files /tmp/u
